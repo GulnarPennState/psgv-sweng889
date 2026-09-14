@@ -6,7 +6,7 @@ This assignment introduces the basic Software Engineering workflow that will be 
 
 You will work with a small Python application that reads a text report and generates a word cloud. The application runs inside a Docker container so that the required Python environment and dependencies are consistent across different computers.
 
-During the assignment, you will modify the application, work with automated tests, use an AI assistant to propose an additional test, validate the result, and track your changes using Git and GitHub.
+During the assignment, you will use an AI assistant to propose an additional test, validate the result, and track your changes using Git and GitHub.
 
 > The complete assignment instructions and submission requirements are available in Canvas.
 
@@ -122,8 +122,6 @@ Run
 Test
   ↓
 Create Branch
-  ↓
-Modify
   ↓
 Use AI to Propose a Test
   ↓
